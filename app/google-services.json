@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864882293217",
+    "firebase_url": "https://androidtextre.firebaseio.com",
+    "project_id": "androidtextre",
+    "storage_bucket": "androidtextre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864882293217:android:e08f01674f11e5390dfaa0",
+        "android_client_info": {
+          "package_name": "com.mburakcakir.androidtextrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864882293217-bld81mn0v5ndrdpkq38grvsdbeq72m2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmQ9TRmviS1x6g9zBlpQFOArPbtIYj7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864882293217-bld81mn0v5ndrdpkq38grvsdbeq72m2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
